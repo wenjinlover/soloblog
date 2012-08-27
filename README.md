@@ -1,0 +1,4 @@
+soloblog
+========
+
+my blog trail
